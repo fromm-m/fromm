@@ -8,9 +8,6 @@
                     Dr.
                 Michael Fromm
             </h1>
-                <p class="funktion">
-                    Research Assistant
-                </p>
         </div>
         <div class="g-clear"></div>
     </div>
@@ -19,19 +16,15 @@
                 Contact
             </h2>
             <div class="body-kontakt">
-                    <address class="g-margin-top g-address adresse">Ludwig-Maximilians-Universität München<br>Lehrstuhl für Datenbanksysteme und Data Mining<br>Oettingenstraße 67<br>80538 München<br>Germany</address>
+                    <address class="g-margin-top g-address adresse"></address>
                 <p class="g-margin-top-s block-kontakt">
-                        <span class="g-label label-raum">Room:</span>
-                        <span class="raum"><a href="http://www.uni-muenchen.de/raumfinder/index.html#/building/bw7070/map?room=707501110_#/building/bw7070/map?room=707501110_" target="_blank" title="F 110">F 110</a></span><br>
-                        <span class="g-label label-telefon">Phone:</span>
-                        <span class="telefon">+49-89-2180-9304</span><br>
                         <span class="g-label label-email">Email:</span>
                         <span class="email"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#111;&#109;&#109;&#64;&#100;&#98;&#115;&#46;&#105;&#102;&#105;&#46;&#108;&#109;&#117;&#46;&#100;&#101;" class="g-link-mail" title="Send email to: &#102;&#114;&#111;&#109;&#109;&#64;&#100;&#98;&#115;&#46;&#105;&#102;&#105;&#46;&#108;&#109;&#117;&#46;&#100;&#101;">&#102;&#114;&#111;&#109;&#109;&#64;&#100;&#98;&#115;&#46;&#105;&#102;&#105;&#46;&#108;&#109;&#117;&#46;&#100;&#101;</a></span><br>
                 </p>
             </div>
         </div>
             <div class="user-html hauptinhalt">
-            <h2><strong>Teaching</strong></h2>
+            <h2><strong>Teaching Experiences</strong></h2>
 <ul>
 <li>WiSe 18/19 &nbsp;&nbsp;<a href="http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html" title="Einf&uuml;hrung in die Programmierung">Einf&uuml;hrung in die Programmierung</a></li>
 <li>WiSe 18/19 &nbsp;&nbsp;<a href="http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/oberseminar1819/index.html">Leitung des Oberseminars</a></li>
