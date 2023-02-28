@@ -1,6 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-    "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en">
+# Michael Fromm
+
+_Data Science Researcher based in Munich 🇩🇪_ <br>
+
+[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+
 <div id="content" class="content content-person">
         <div class="g-bg g-margin-top-s g-padding-xs mod mod-teaser mod-teaser-bg box-portrait">
         <div class="m-bd g-padding-xs">
