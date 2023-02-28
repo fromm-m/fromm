@@ -11,13 +11,13 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 
 ## 👩🏼‍💻 Teaching Experiences <br>
 - [Introduction to Programming](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html)
-- [Argument Mining Seminar](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/bscseminar22/index.html)
+- [Argument Mining](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/bscseminar22/index.html)
 - [Big Data Management and Analytics](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/bigdata2122/index.html)
 - [Machine Learning Practical](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/pbds21/index.html)
 - [Machine Learning Seminar](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent19/index.html)
 - [Deep Learning and Artificial Intelligence](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep2021/index.html)
 - [Artificial Intelligencee for Games](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/art21/index.html)
-- [Machine Learning with limited labeled Data Seminar](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent2223/index.html)
+- [Machine Learning with limited labeled Data](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent2223/index.html)
 
 Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de)
 
