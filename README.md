@@ -24,6 +24,8 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de)
 
 ## 👩🏼‍💻 Former Research Projects
+[ReMLAV: Relational Machine Learning for Argument Validation(ReMLAV)](http://ratio.sc.cit-ec.uni-bielefeld.de/projects/remlav/)
+[Munich Center for Machine Learning (MCML)](https://mcml.ai/)
 
 ## 👩🏼‍💻 Research Interests
 Deep Learning / Relational Machine Learning
