@@ -16,10 +16,10 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 - Research Scientist (2016-2023) LMU Munich
 - Intern Software Development (2015-2016) Dassault Systemes
 
-## Education <br>
-- PHd Computer Science (2018-2022) LMU Munich
-- MSc Computer Science (2016-2018) LMU Munich
-- BSc Computer Science (2012-2016) LMU Munich
+## Education LMU Munich<br>
+- PHd Computer Science, 2018-2022
+- MSc Computer Science, 2016-2018
+- BSc Computer Science, 2012-2016
 
 ## Teaching Experiences <br>
 - [Introduction to Programming](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html)
