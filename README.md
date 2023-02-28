@@ -10,16 +10,16 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 - Computer Vision / Remote Sensing
 
 ## Work Experience <br>
-- Research Engineer Large Language Models (2023-Present) Fraunhofer IAIS
-- Postdoc (2022-2023) LMU Munich
-- Innovation Lab Coordinator (2020-2023) LMU Munich
-- Research Scientist (2016-2023) LMU Munich
-- Intern Software Development (2015-2016) Dassault Systemes
+- Research Engineer Large Language Models, Fraunhofer IAIS, (2023 - Present) 
+- Postdoc, LMU Munich (2022 - 2023)
+- Innovation Lab Coordinator, LMU Munich (2020 - 2023) 
+- Research Scientist, LMU Munich, (2016 - 2023) 
+- Intern Software Development, Dassault Systemes (2015 - 2016) 
 
-## Education LMU Munich<br>
-- PHd Computer Science, 2018-2022
-- MSc Computer Science, 2016-2018
-- BSc Computer Science, 2012-2016
+## Education LMU Munich <img src="images/LMU_Logo_CMYK_FlaechigGruen.png" alt="Image description" width="46" height="23"> <br>
+- PhD CS (2018 - 2022)
+- MSc CS (2016 - 2018)
+- BSc CS (2012 - 2016)
 
 ## Teaching Experiences <br>
 - [Introduction to Programming](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html)
