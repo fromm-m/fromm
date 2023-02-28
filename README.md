@@ -2,10 +2,10 @@
 
 _Data Science Researcher based in Munich 🇩🇪_ <br>
 
-[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/carolstran/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
+[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/https://twitter.com/effi288/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
 
 ## Research Interests <br>
-- Deep Learning / Relational Machine Learning
+- Machine Learning
 - Natural Language Processing / Argument Mining / Large Language Models
 - Computer Vision / Remote Sensing
 
@@ -30,6 +30,7 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 - [Deep Learning and Artificial Intelligence](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep2021/index.html)
 - [Artificial Intelligence for Games](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/art21/index.html)
 - [Machine Learning with limited labeled Data](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent2223/index.html)
+- supervision of dozens of bachelor & master thesis
 
 Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de).
 
@@ -51,4 +52,6 @@ Projects from the Machine Learning Practical are also featured on the [Innolab W
 - [Active Learning for Argument Strength Estimation](https://aclanthology.org/2021.insights-1.20/)
 
 ## Skills <br>
-Python Java C++ Scala NumPy Huggingface PyTorch Scikit-learn Optuna MLflow Pandas SciPy TensorFlow Bash Structured Data Unstructured Data Unstructured Data ML for Production Computer Vision Natural-Language-Processing AWS
+<div class="tag">Python</div>
+
+ Java C++ Scala NumPy Huggingface PyTorch Scikit-learn Optuna MLflow Pandas SciPy TensorFlow Bash Structured Data Unstructured Data Unstructured Data ML for Production Computer Vision Natural-Language-Processing AWS
