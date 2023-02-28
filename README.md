@@ -52,6 +52,4 @@ Projects from the Machine Learning Practical are also featured on the [Innolab W
 - [Active Learning for Argument Strength Estimation](https://aclanthology.org/2021.insights-1.20/)
 
 ## Skills <br>
-<div class="tag">Python</div>
-
- Java C++ Scala NumPy Huggingface PyTorch Scikit-learn Optuna MLflow Pandas SciPy TensorFlow Bash Structured Data Unstructured Data Unstructured Data ML for Production Computer Vision Natural-Language-Processing AWS
+Python, Java, C++, Scala, NumPy, Huggingface, PyTorch, Scikit-learn, Optuna, MLflow, Pandas, SciPy, TensorFlow, Bash, ML for Production, Computer Vision, Natural-Language-Processing, AWS
