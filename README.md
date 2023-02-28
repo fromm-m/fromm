@@ -6,45 +6,14 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 
 ## 👩🏼‍💻 Teaching Experiences
 [Introduction to Programming](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html)
+[Argument Mining Seminar](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/bscseminar22/index.html)
+[Big Data Management and Analytics](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/bigdata2122/index.html)
+[Machine Learning Practical](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/pbds21/index.html)
+[Machine Learning Seminar](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent19/index.html)
+[Deep Learning and Artificial Intelligence](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep2021/index.html)
+[Artificial Intelligencee for Games](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/art21/index.html)
+[Machine Learning with limited labeled Data Seminar](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent2223/index.html)
 
-<div id="content" class="content content-person">
-        <div class="g-bg g-margin-top-s g-padding-xs mod mod-teaser mod-teaser-bg box-portrait">
-        <div class="m-bd g-padding-xs">
-            <h1 class="g-h1 g-no-margin-top g-margin-bottom-l name g-no-clear">
-                    Dr.
-                Michael Fromm
-            </h1>
-        </div>
-        <div class="g-clear"></div>
-    </div>
-        <div class="block block-kontakt">
-            <h2 class="g-h2 heading-kontakt">
-                Contact
-            </h2>
-            <div class="body-kontakt">
-                    <address class="g-margin-top g-address adresse"></address>
-                <p class="g-margin-top-s block-kontakt">
-                        <span class="g-label label-email">Email:</span>
-                        <span class="email"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#111;&#109;&#109;&#64;&#100;&#98;&#115;&#46;&#105;&#102;&#105;&#46;&#108;&#109;&#117;&#46;&#100;&#101;" class="g-link-mail" title="Send email to: &#102;&#114;&#111;&#109;&#109;&#64;&#100;&#98;&#115;&#46;&#105;&#102;&#105;&#46;&#108;&#109;&#117;&#46;&#100;&#101;">&#102;&#114;&#111;&#109;&#109;&#64;&#100;&#98;&#115;&#46;&#105;&#102;&#105;&#46;&#108;&#109;&#117;&#46;&#100;&#101;</a></span><br>
-                </p>
-            </div>
-        </div>
-            <div class="user-html hauptinhalt">
-            <h2><strong>Teaching Experiences</strong></h2>
-<ul>
-<li>WiSe 18/19 &nbsp;&nbsp;<a href="http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html" title="Einf&uuml;hrung in die Programmierung">Einf&uuml;hrung in die Programmierung</a></li>
-<li>WiSe 18/19 &nbsp;&nbsp;<a href="http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/oberseminar1819/index.html">Leitung des Oberseminars</a></li>
-<li>SoSe 19 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent19/index.html">Master Seminar Recent Developments in Data Science</a></li>
-<li>SoSe 19 &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/pbds19/index.html">Master Praktikum Big Data Science</a></li>
-<li>WiSe 19/20 &nbsp; <a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/bscseminar1920/index.html">Bachelor Seminar Argument Mining</a></li>
-<li>SoSe 20 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://uni2work.ifi.lmu.de/course/S20/IfI/PBDS">Master Praktikum Big Data Science</a></li>
-<li>WiSe 20/21 &nbsp;&nbsp;<a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep2021/index.html">Deep Learning and Artificial Intelligence</a></li>
-<li>SoSe 21 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/art21/index.html">Artificial Intelligence for Games</a></li>
-<li>SoSe 21 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/pbds21/index.html">Master Praktikum Big Data Science</a></li>
-<li>SoSe 21 &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent221/index.html">Master Seminar Recent Developments in Data Science</a></li>
-<li>WiSe 21/22&nbsp; &nbsp;<a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/bigdata2122/index.html">Big Data Management and Analytics</a></li>
-<li>SoSe 22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/bscseminar22/index.html">Bachelor Seminar Argument Mining</a></li>
-</ul>
 <div>The&nbsp;projects from Praktikum Big Data Science are also featured on a <a href="https://innolab.ifi.lmu.de/">dedicated website</a>.</div>
 <h2><strong>Research Interests&nbsp;</strong></h2>
 <ul>
