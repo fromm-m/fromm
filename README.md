@@ -4,6 +4,13 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 
 [Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/carolstran/) [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
 
+## 👩🏼‍💻 Research Interests
+Deep Learning / Relational Machine Learning
+
+Natural Language Processing / Argument Mining / Large-Language-Models
+
+Computer Vision / Remote Sensing
+
 ## 👩🏼‍💻 Teaching Experiences
 [Introduction to Programming](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/eip1819/index.html)
 
@@ -27,12 +34,5 @@ Projects from the Machine Learning Practical are also featured on the [Innolab W
 [ReMLAV: Relational Machine Learning for Argument Validation(ReMLAV)](http://ratio.sc.cit-ec.uni-bielefeld.de/projects/remlav/)
 
 [Munich Center for Machine Learning (MCML)](https://mcml.ai/)
-
-## 👩🏼‍💻 Research Interests
-Deep Learning / Relational Machine Learning
-
-Natural Language Processing / Argument Mining / Large-Language-Models
-
-Computer Vision / Remote Sensing
 
 ## 👩🏼‍💻 Selected Publications
