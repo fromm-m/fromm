@@ -21,7 +21,7 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 
 [Machine Learning with limited labeled Data Seminar](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent2223/index.html)
 
-Projects from the Machine Learning Practical are also featured on a the [Innolab Website](https://innolab.ifi.lmu.de)
+Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de)
 
 ## 👩🏼‍💻 Former Research Projects
 
