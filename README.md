@@ -2,7 +2,7 @@
 
 _Data Science Researcher based in Munich 🇩🇪_ <br>
 
-[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub]([https://github.com/carolstran](https://github.com/fromm-m)/) / [Twitter](https://twitter.com/carolstran/)
 
 <div id="content" class="content content-person">
         <div class="g-bg g-margin-top-s g-padding-xs mod mod-teaser mod-teaser-bg box-portrait">
