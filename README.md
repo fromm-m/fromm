@@ -5,8 +5,7 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 [Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/https://twitter.com/effi288/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
 
 ## Research Interests <br>
-- Machine Learning
-- Natural Language Processing / Argument Mining / Large Language Models
+- Large Language Models / Conversational AI / Argument Mining 
 - Computer Vision / Remote Sensing
 
 ## Work Experience <br>
@@ -33,6 +32,9 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 - supervision of dozens of bachelor & master thesis
 
 Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de).
+
+## Current Research Projects <br>
+- [openGPT-X: Development of Large European Language Models](https://opengpt-x.de)
 
 ## Former Research Projects <br>
 - [ReMLAV: Relational Machine Learning for Argument Validation(ReMLAV)](http://ratio.sc.cit-ec.uni-bielefeld.de/projects/remlav/)
