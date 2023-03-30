@@ -2,7 +2,7 @@
 
 _Data Science Researcher based in Munich 🇩🇪_ <br>
 
-[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/https://twitter.com/effi288/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
+[Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/effi288/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
 
 ## Research Interests <br>
 - Large Language Models / Conversational AI / Argument Mining 
