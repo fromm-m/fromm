@@ -5,11 +5,11 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 [Email](mailto:fromm@dbs.ifi.lmu.de) / [Website](https://fromm-m.github.io/fromm/) / [LinkedIn](https://www.linkedin.com/in/michael-fromm-a2069772/) / [GitHub](https://github.com/fromm-m) / [Twitter](https://twitter.com/effi288/) / [G-Scholar](https://scholar.google.de/citations?hl=de&amp;user=NL5yVhYAAAAJ)
 
 ## Research Interests <br>
-- Large Language Models / Conversational AI / Argument Mining 
+- Large Language Models / Conversational AI / Argument Mining / Multilingual LLMs
 - Computer Vision / Remote Sensing
 
 ## Work Experience <br>
-- Research Engineer Large Language Models, Fraunhofer IAIS, (2023 - Present) 
+- Senior Research Engineer LLMs, Fraunhofer IAIS, (2023 - Present) 
 - Postdoc, LMU Munich (2022 - 2023)
 - Innovation Lab Coordinator, LMU Munich (2020 - 2023) 
 - Research Scientist, LMU Munich, (2016 - 2023) 
@@ -52,6 +52,7 @@ Projects from the Machine Learning Practical are also featured on the [Innolab W
 - [TACAM: topic and context aware argument mining](https://dl.acm.org/doi/abs/10.1145/3350546.3352506)
 - [Diversity Aware Relevance Learning for Argument Search](https://link.springer.com/chapter/10.1007/978-3-030-72240-1_24)
 - [Active Learning for Argument Strength Estimation](https://aclanthology.org/2021.insights-1.20/)
+- [Cross-Domain Argument Quality Estimation](https://aclanthology.org/2023.findings-acl.848/)
 
 ## Skills <br>
 Python, Java, C++, Scala, NumPy, Huggingface, PyTorch, Scikit-learn, Optuna, MLflow, Pandas, SciPy, TensorFlow, Bash, ML for Production, Computer Vision, Natural-Language-Processing, AWS
