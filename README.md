@@ -9,7 +9,7 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 - Computer Vision / Remote Sensing
 
 ## Work Experience <br>
-- Senior Research Engineer LLMs, Fraunhofer IAIS, (2023 - Present) 
+- Senior Research Scientist LLMs, Fraunhofer IAIS, (2023 - Present) 
 - Postdoc, LMU Munich (2022 - 2023)
 - Innovation Lab Coordinator, LMU Munich (2020 - 2023) 
 - Research Scientist, LMU Munich, (2016 - 2023) 
