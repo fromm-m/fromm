@@ -34,6 +34,7 @@ _Data Science Researcher based in Munich 🇩🇪_ <br>
 Projects from the Machine Learning Practical are also featured on the [Innolab Website](https://innolab.ifi.lmu.de).
 
 ## Current Research Projects <br>
+- [TrustLLM: Democratize Trustworthy and Efficient Large Language Model Technology for Europe](https://trustllm.eu)
 - [openGPT-X: Development of Large European Language Models](https://opengpt-x.de)
 
 ## Former Research Projects <br>
